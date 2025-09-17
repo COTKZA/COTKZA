@@ -1,5 +1,5 @@
-<p align="center">
-   Hello, I am Jirasak Suktakua
+<p align="center" style="font-size: 36px; font-weight: bold;">
+  Hello, I am Jirasak Suktakua
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </p>
 
