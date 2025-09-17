@@ -91,7 +91,7 @@
     </td>
     <td>
       <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s" 
              alt="postman" width="50" height="50" />
       </a>
     </td>
