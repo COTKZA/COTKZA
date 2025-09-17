@@ -3,7 +3,7 @@
 ---
 
 ##  Skills & Tools
-<ul style="list-style:none; display:flex; gap:10px; padding:0; margin:0; align-items:center;">
+<ul style="list-style:none; display:flex; gap:15px; padding:0; margin:0; align-items:center; flex-wrap:wrap;">
   <li>
     <a href="https://reactjs.org" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" 
@@ -22,7 +22,26 @@
            alt="Git" width="50" height="50"/>
     </a>
   </li>
+  <li>
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" 
+           alt="Node.js" width="50" height="50" style="background:#339933; border-radius:5px; padding:5px;"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.typescriptlang.org" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" 
+           alt="TypeScript" width="50" height="50" style="background:#007ACC; border-radius:5px; padding:5px;"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.mysql.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" 
+           alt="MySQL" width="50" height="50" style="background:#4479A1; border-radius:5px; padding:5px;"/>
+    </a>
+  </li>
 </ul>
+
 
 
 
