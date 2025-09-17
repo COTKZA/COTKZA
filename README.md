@@ -5,7 +5,7 @@
 ##  Skills & Tools
 <p align="left">
   <a href="https://reactjs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" 
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" 
        alt="React" 
        width="50" height="50"
        style="background:#61DAFB; border-radius:50%; padding:5px;"/>
@@ -21,12 +21,6 @@
          width="50" height="50"/>
   </a>
 </p>
-<a href="https://reactjs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" 
-       alt="React" width="50" height="50"
-       style="fill:#61DAFB; background:#fff; border-radius:50%; padding:5px;"/>
-</a>
-
 
 ---
 
