@@ -7,11 +7,10 @@
   <a href="https://reactjs.org" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" 
        alt="React" 
-       width="50" height="50"
-       style="background:#61DAFB; border-radius:50%; padding:5px;"/>
+       width="50" height="50"/>
 </a>
   <a href="https://laravel.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/190px-Laravel.svg.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" 
          alt="Laravel" 
          width="50" height="50"/>
   </a>
