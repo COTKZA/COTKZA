@@ -53,6 +53,12 @@
              alt="DOCKER" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" 
+             alt="tawiland css" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
