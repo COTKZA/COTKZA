@@ -22,11 +22,6 @@
   </a>
 </p>
 
-<a href="https://reactjs.org"><img src="URL_LOGO_REACT" width="50" height="50"/></a>
-<a href="https://nodejs.org"><img src="URL_LOGO_NODE" width="50" height="50"/></a>
-<a href="https://laravel.com"><img src="URL_LOGO_LARAVEL" width="50" height="50"/></a>
-
-
 
 ---
 
