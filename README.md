@@ -4,10 +4,12 @@
 
 ##  Skills & Tools
 <p align="left">
-  <a href="https://reactjs.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" 
-     alt="React" width="50" height="50" style="background:#61DAFB; border-radius:50%; padding:5px;">
-  </a>
+  <a href="https://reactjs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" 
+       alt="React" 
+       width="50" height="50"
+       style="background:#61DAFB; border-radius:50%; padding:5px;"/>
+</a>
   <a href="https://laravel.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/190px-Laravel.svg.png" 
          alt="Laravel" 
