@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="50" height="50" style="border-radius:50%; background:#61DAFB; padding:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50" style="border-radius:50%; background:#61DAFB; padding:5px;"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="50" height="50" style="border-radius:50%; background:#339933; padding:5px;"/>
   &nbsp;&nbsp;
