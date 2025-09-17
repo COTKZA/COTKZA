@@ -14,6 +14,11 @@
          alt="Laravel" 
          width="50" height="50"/>
   </a>
+  <a href="https://git-scm.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png" 
+         alt="git" 
+         width="50" height="50"/>
+  </a>
 </p>
 
 
