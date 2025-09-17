@@ -15,7 +15,7 @@
          width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png" 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" 
          alt="git" 
          width="50" height="50"/>
   </a>
