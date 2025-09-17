@@ -83,6 +83,12 @@
              alt="javascript" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://vite.dev/)" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" 
+             alt="vite" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
