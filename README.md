@@ -4,12 +4,11 @@
 
 ## 🛠️ Skills & Tools
 <!-- React -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="40" height="40" style="border-radius:50%;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="50" height="50" style="border-radius:50%; background:#61DAFB; padding:5px;"/>
 <!-- Node.js -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" style="border-radius:50%;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="50" height="50" style="border-radius:50%; background:#339933; padding:5px;"/>
 <!-- Laravel -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" alt="Laravel" width="40" height="40" style="border-radius:50%;"/>
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" alt="Laravel" width="50" height="50" style="border-radius:50%; background:#FF2D20; padding:5px;"/>
 
 
 ---
