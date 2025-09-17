@@ -30,9 +30,9 @@
       </a>
     </td>
     <td>
-      <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" 
-             alt="TypeScript" width="50" height="50" style="background:#007ACC; border-radius:5px; padding:5px;"/>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://commons.wikimedia.org/wiki/File:Expressjs.png" 
+             alt="Express" width="50" height="50" />
       </a>
     </td>
     <td>
