@@ -5,11 +5,11 @@
 ## 🛠️ Skills & Tools
 <p align="left">
   <a href="https://reactjs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50" style="border-radius:50%; background:#61DAFB; padding:5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50" style="padding:5px;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoO1kQEm6tKiQbd-moXfnmzFakSSyYPpdIw&s" alt="Laravel" width="50" height="50" style="border-radius:50%; background:#339933; padding:5px;"/>
+    <img src="https://ih1.redbubble.net/image.2120691091.5447/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Laravel" width="50" height="50" style="padding:5px;"/>
   </a>
 </p>
 
