@@ -3,7 +3,7 @@
 ---
 
 ##  Skills & Tools
-<table>
+<table style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
   <tr>
     <td>
       <a href="https://reactjs.org" target="_blank">
