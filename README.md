@@ -71,6 +71,12 @@
              alt="bootstrap" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" 
+             alt="typescript" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
