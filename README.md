@@ -31,7 +31,7 @@
     </td>
     <td>
       <a href="https://expressjs.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+        <img src="https://www.borntodev.com/wp-content/uploads/2024/03/expressjs_logo-1024x729.png" 
              alt="Express" width="50" height="50" />
       </a>
     </td>
