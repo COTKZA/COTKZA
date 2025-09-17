@@ -77,6 +77,12 @@
              alt="typescript" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" 
+             alt="javascript" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
