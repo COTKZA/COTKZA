@@ -43,7 +43,7 @@
     </td>
      <td>
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" 
+        <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" 
              alt="SQL SERVER" width="50" height="50" />
       </a>
     </td>
