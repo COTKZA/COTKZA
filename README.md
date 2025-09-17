@@ -21,6 +21,11 @@
          width="50" height="50"/>
   </a>
 </p>
+<a href="https://reactjs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" 
+       alt="React" width="50" height="50"
+       style="fill:#61DAFB; background:#fff; border-radius:50%; padding:5px;"/>
+</a>
 
 
 ---
