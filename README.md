@@ -4,17 +4,17 @@
 
 ##  Skills & Tools
 <p align="left">
-  <a href="https://reactjs.org" style="margin-right:10px;">
+  <a href="https://reactjs.org" style="margin-right:10px; text-decoration:none;">
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" 
          alt="React" 
          width="50" height="50"/>
   </a>
-  <a href="https://laravel.com/" style="margin-right:10px;">
+  <a href="https://laravel.com/" style="margin-right:10px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" 
          alt="Laravel" 
          width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" style="margin-right:10px;">
+  <a href="https://git-scm.com/" style="margin-right:10px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" 
          alt="git" 
          width="50" height="50"/>
