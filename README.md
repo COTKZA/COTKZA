@@ -37,8 +37,8 @@
     </td>
     <td>
       <a href="https://www.mysql.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" 
-             alt="MySQL" width="50" height="50" style="background:#4479A1; border-radius:5px; padding:5px;"/>
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" 
+             alt="MySQL" width="50" height="50" />
       </a>
     </td>
   </tr>
