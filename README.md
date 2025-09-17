@@ -49,6 +49,9 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="50" height="50" />
   </a>
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-svg-vector.svg" width="50" height="50" />
+  </a>
 </div>
 
 ---
