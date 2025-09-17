@@ -3,22 +3,22 @@
 ---
 
 ##  Skills & Tools
-<p align="left">
-  <a href="https://reactjs.org" target="_blank" style="margin-right:10px; text-decoration:none;">
+<div style="display:flex; gap:10px; align-items:center;">
+  <a href="https://reactjs.org" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" 
          alt="React" width="50" height="50"/>
   </a>
-  
-  <a href="https://laravel.com/" target="_blank" style="margin-right:10px; text-decoration:none;">
+
+  <a href="https://laravel.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" 
          alt="Laravel" width="50" height="50"/>
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" style="margin-right:10px; text-decoration:none;">
+
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" 
          alt="Git" width="50" height="50"/>
   </a>
-</p>
+</div>
 
 
 
