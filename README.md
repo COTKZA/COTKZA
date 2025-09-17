@@ -65,6 +65,12 @@
              alt="bootstrap" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" 
+             alt="bootstrap" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
