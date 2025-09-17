@@ -4,50 +4,50 @@
 
 ##  Skills & Tools
 <div style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
-  <a href="https://reactjs.org" target="_blank">
+  <a href="https://reactjs.org" target="_blank" style="text-decoration:none; outline:none; border:none;">
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" width="50" height="50"/>
   </a>
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" width="50" height="50" />
+  <a href="https://nodejs.org" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/express-js.png" width="50" height="50" />
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://img.icons8.com/color/512/express-js.png" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50" height="50" />
+  <a href="https://www.mysql.com" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50" height="50"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50" height="50" />
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50" height="50"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/512/docker.png" width="50" height="50" />
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://img.icons8.com/fluent/512/docker.png" width="50" height="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50" height="50" />
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://getbootstrap.com/docs/5.0/about/brand/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50" />
+  <a href="https://getbootstrap.com/docs/5.0/about/brand/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="50" height="50" />
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="50" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="50" height="50"/>
   </a>
-  <a href="https://vite.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="50" height="50" />
+  <a href="https://vite.dev/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50" />
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration:none; outline:none; border:none;">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50"/>
   </a>
 </div>
 
