@@ -3,11 +3,27 @@
 ---
 
 ##  Skills & Tools
-<ul style="list-style:none; display:flex; gap:10px; padding:0; margin:0;">
-  <li><a href="https://reactjs.org" target="_blank"><img src="..." width="50" height="50"/></a></li>
-  <li><a href="https://laravel.com/" target="_blank"><img src="..." width="50" height="50"/></a></li>
-  <li><a href="https://git-scm.com/" target="_blank"><img src="..." width="50" height="50"/></a></li>
+<ul style="list-style:none; display:flex; gap:10px; padding:0; margin:0; align-items:center;">
+  <li>
+    <a href="https://reactjs.org" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" 
+           alt="React" width="50" height="50"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" 
+           alt="Laravel" width="50" height="50"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" 
+           alt="Git" width="50" height="50"/>
+    </a>
+  </li>
 </ul>
+
 
 
 
