@@ -5,11 +5,45 @@
 ##  Skills & Tools
 <table>
   <tr>
-    <td><a href="https://reactjs.org" target="_blank"><img src="..." width="50" height="50"/></a></td>
-    <td><a href="https://laravel.com/" target="_blank"><img src="..." width="50" height="50"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="..." width="50" height="50"/></a></td>
+    <td>
+      <a href="https://reactjs.org" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" 
+             alt="React" width="50" height="50"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" 
+             alt="Laravel" width="50" height="50"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" 
+             alt="Git" width="50" height="50"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" 
+             alt="Node.js" width="50" height="50" style="background:#339933; border-radius:5px; padding:5px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" 
+             alt="TypeScript" width="50" height="50" style="background:#007ACC; border-radius:5px; padding:5px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" 
+             alt="MySQL" width="50" height="50" style="background:#4479A1; border-radius:5px; padding:5px;"/>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ---
 
