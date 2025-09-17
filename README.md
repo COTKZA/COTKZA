@@ -9,7 +9,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" width="50" height="50" style="padding:5px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" 
+     alt="Laravel" 
+     width="50" height="50" 
+     style="background-color:#FF2D20; padding:5px; border-radius:50%;"/>
   </a>
 </p>
 
