@@ -46,8 +46,8 @@
   <a href="https://vite.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="50" height="50" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50" />
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="50" height="50" />
   </a>
 </div>
 
