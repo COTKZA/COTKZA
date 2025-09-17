@@ -59,7 +59,7 @@
     <img src="https://img.daisyui.com/images/daisyui/daisyui-logo-2000.png" width="50" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-svg-vector.svg" width="50" height="50" />
+    <img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="50" height="50" />
   </a>
 </div>
 
