@@ -25,8 +25,8 @@
     </td>
     <td>
       <a href="https://nodejs.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" 
-             alt="Node.js" width="50" height="50" style="background:#339933; border-radius:5px; padding:5px;"/>
+        <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png)" 
+             alt="Node.js" width="50" height="50" />
       </a>
     </td>
     <td>
