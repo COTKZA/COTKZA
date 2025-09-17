@@ -4,18 +4,11 @@
 
 ## 🛠️ Skills & Tools
 <p align="left">
-  <div style="display:flex; gap:10px;">
-  <div style="background-color:#61DAFB; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" height="40"/>
-  </div>
-  <div style="background-color:#339933; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" width="40" height="40"/>
-  </div>
-  <div style="background-color:#FF2D20; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="40" height="40"/>
-  </div>
-</div>
-
+  <a href="https://reactjs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/250px-React_Logo_SVG.svg.png" 
+         alt="React" 
+         width="50" height="50"/>
+  </a>
 </p>
 
 
