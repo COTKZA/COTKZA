@@ -9,6 +9,11 @@
          alt="React" 
          width="50" height="50"/>
   </a>
+  <a href="https://laravel.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/190px-Laravel.svg.png" 
+         alt="Laravel" 
+         width="50" height="50"/>
+  </a>
 </p>
 
 
