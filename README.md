@@ -3,9 +3,13 @@
 ---
 
 ## 🛠️ Skills & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="40" height="40" style="border-radius:50%;"/>
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" style="border-radius:50%;"/>
+<!-- Laravel -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" alt="Laravel" width="40" height="40" style="border-radius:50%;"/>
+
 
 
 ---
