@@ -4,16 +4,18 @@
 
 ## 🛠️ Skills & Tools
 <p align="left">
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50" style="padding:5px;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" 
-     alt="Laravel" 
-     width="50" height="50" 
-     style="background-color:#FF2D20; padding:5px; border-radius:50%;"/>
-  </a>
+  <div style="display:flex; gap:10px;">
+  <div style="background-color:#61DAFB; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" height="40"/>
+  </div>
+  <div style="background-color:#339933; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" width="40" height="40"/>
+  </div>
+  <div style="background-color:#FF2D20; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; padding:5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="40" height="40"/>
+  </div>
+</div>
+
 </p>
 
 
