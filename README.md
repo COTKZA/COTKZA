@@ -41,6 +41,12 @@
              alt="MySQL" width="50" height="50" />
       </a>
     </td>
+     <td>
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" 
+             alt="SQL SERVER" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
