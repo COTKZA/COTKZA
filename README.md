@@ -74,5 +74,5 @@
 
 ## Contact
 - Email: cotkgtasa123@gmail.com
-- Portfolio: **   
+- Portfolio: https://web-portfolio-eight-red.vercel.app/
 - Facebook: https://www.facebook.com/COTKZA
