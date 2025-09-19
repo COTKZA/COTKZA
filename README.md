@@ -67,8 +67,6 @@
 
 ##  My project
 - [shop-game-laravel](https://github.com/COTKZA/shop-game-laravel) — เว็บร้านค้าเกม ด้วย Laravel
-- [contact-card](https://github.com/COTKZA/anime-seven.git) — เว็บไซต์ Contact ส่วนตัว ด้วย React (TypeScript)
-- [anime-seven](https://github.com/COTKZA/web-portfolio) — เว็บไซต์ Anime  ด้วย React (TypeScript) and Express
 
 ---
 
