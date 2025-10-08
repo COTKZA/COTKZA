@@ -74,4 +74,4 @@
 - Portfolio: https://web-portfolio-eight-red.vercel.app/
 - Facebook: https://www.facebook.com/COTKZA
   
-https://komarev.com/ghpvc/?username=COTKZA&color=green
+![](https://komarev.com/ghpvc/?username=COTKZA&color=green
