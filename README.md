@@ -73,6 +73,9 @@
 - Email: cotkgtasa123@gmail.com
 - Portfolio: https://web-portfolio-eight-red.vercel.app/
 - Facebook: https://www.facebook.com/COTKZA
-  
+
+---
+
+## Views  
 ![Profile views](https://komarev.com/ghpvc/?username=COTKZA&color=green)
 
