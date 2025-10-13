@@ -65,7 +65,7 @@
 ---
 
 ##  My project
-- [shop-game-laravel](https://github.com/COTKZA/shop-game-laravel) — เว็บร้านค้าเกม ด้วย Laravel
+- website: https://web-portfolio-eight-red.vercel.app/
 
 ---
 
