@@ -61,7 +61,7 @@
     <img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="50" height="50" />
   </a>
   <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://www.prisma.io/logo-white.svg" width="130" height="130" />
+    <img src="https://www.prisma.io/logo-white.svg" width="100" height="100" />
   </a>
 </div>
 
