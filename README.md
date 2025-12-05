@@ -60,6 +60,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="50" height="50" />
   </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://www.prisma.io/logo-white.svg" width="50" height="50" />
+  </a>
 </div>
 
 ---
