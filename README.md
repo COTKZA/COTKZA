@@ -10,13 +10,13 @@
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" width="50" height="50"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" width="50" height="50"/>
+    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="50" height="50"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="50" height="50" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.icons8.com/color/512/express-js.png" width="50" height="50" />
