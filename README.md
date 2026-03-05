@@ -5,6 +5,7 @@
 ---
 
 ##  Skills & Tools
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,mysql,docker,aws" />
 <div style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
   <a href="https://reactjs.org" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=61DAFB" width="50" height="50"/>
