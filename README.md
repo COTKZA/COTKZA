@@ -8,7 +8,7 @@
 <div style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
   <a href="https://reactjs.org" target="_blank">
 <img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/dark.svg"
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg"
   alt="React"
   width="50"
   height="50"
