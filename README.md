@@ -12,7 +12,7 @@
   alt="React"
   width="50"
   height="50"
-   style="display:block;"
+   style="display:block; text-decoration:none;"
 />
   </a>
   <a href="https://laravel.com/" target="_blank">
