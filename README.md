@@ -10,63 +10,145 @@
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg"
   alt="React"
-  width="50"
-  height="50"
+  width="24"
+  height="24"
 />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="50" height="50"/>
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/laravel/default.svg"
+  alt="Laravel"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="50" height="50"/>
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg"
+  alt="Git"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodedotjs/default.svg"
+  alt="Node.js"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/express-js.png" width="50" height="50" />
+   <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/expressdotjs/default.svg"
+  alt="Express.js"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg"
+  alt="MySQL"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg"
+  alt="Microsoft SQL Server "
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/512/docker.png" width="50" height="50" />
+   <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg"
+  alt="Docker"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50" height="50" />
+   <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg"
+  alt="Tailwind CSS"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://getbootstrap.com/docs/5.0/about/brand/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bootstrap/default.svg"
+  alt="Bootstrap"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg"
+  alt="HTML5"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1280px-Typescript.svg.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg"
+  alt="TypeScript"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg"
+  alt="JavaScript"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://vite.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg"
+  alt="Vite"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="50" height="50" />
-  </a>
-  <a href="https://sequelize.org/" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-svg-vector.svg" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vue/default.svg"
+  alt="Vue"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://daisyui.com/" target="_blank">
-    <img src="https://img.daisyui.com/images/daisyui/daisyui-logo-2000.png" width="50" height="50" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/daisyui/default.svg"
+  alt="daisyUI"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="50" height="50" />
+   <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg"
+  alt="CSS"
+  width="24"
+  height="24"
+/>
   </a>
   <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://www.prisma.io/logo-white.svg" width="100" height="100" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prisma/default.svg"
+  alt="Prisma"
+  width="24"
+  height="24"
+/>
   </a>
 </div>
 
