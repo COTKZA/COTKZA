@@ -12,7 +12,7 @@
   alt="React"
   width="50"
   height="50"
-   style="display:block; text-decoration:none;"
+   style="text-decoration:none;"
 />
   </a>
   <a href="https://laravel.com/" target="_blank">
@@ -21,7 +21,7 @@
   alt="Laravel"
   width="50"
   height="50"
-   style="display:block;"
+   style="text-decoration:none;"
 />
   </a>
   <a href="https://git-scm.com/" target="_blank">
@@ -30,7 +30,7 @@
   alt="Git"
  width="50"
   height="50"
-   style="display:block;"
+   style="text-decoration:none;"
 />
   </a>
   <a href="https://nodejs.org" target="_blank">
