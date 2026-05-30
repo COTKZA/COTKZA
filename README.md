@@ -176,7 +176,7 @@
 ---
 
 ## Contact
-- Email: cotkgtasa123@gmail.com
+- Email: jirasak.suktakua@gmail.com
 - Portfolio: https://web-portfolio-eight-red.vercel.app/
 - Facebook: https://www.facebook.com/COTKZA
 
