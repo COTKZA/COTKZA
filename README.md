@@ -171,13 +171,13 @@
 ---
 
 ##  My project
-- website: https://web-portfolio-eight-red.vercel.app/
+- website: jirasak.com
 
 ---
 
 ## Contact
 - Email: jirasak.suktakua@gmail.com
-- Portfolio: https://web-portfolio-eight-red.vercel.app/
+- Portfolio: jirasak.com
 - Facebook: https://www.facebook.com/COTKZA
 
 ---
