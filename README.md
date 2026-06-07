@@ -171,13 +171,13 @@
 ---
 
 ##  My project
-- website: jirasak.com
+- website: https://jirasak.com/
 
 ---
 
 ## Contact
 - Email: jirasak.suktakua@gmail.com
-- Portfolio: jirasak.com
+- Portfolio: https://jirasak.com/
 - Facebook: https://www.facebook.com/COTKZA
 
 ---
