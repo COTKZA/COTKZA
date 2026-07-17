@@ -1,9 +1,9 @@
-<h2 style="font-size: 36px; font-weight: bold;">
-   Hello, I am Jirasak Suktakua
+<h2 align="left" style="font-size: 36px; font-weight: bold;">
+  Hello, I am Jirasak Suktakua
 </h2>
 
-<h1 style="font-size: 30px; font-weight: bold;">
-   Full-Stack Developer
+<h1 align="left" style="font-size: 30px; font-weight: bold;">
+  Full-Stack Developer
 </h1>
 
 ##  Skills & Tools
