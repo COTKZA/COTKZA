@@ -49,6 +49,15 @@
    style="display:block;"
 />
   </a>
+   <a href="https://nestjs.com/" target="_blank" style="text-decoration:none;">
+   <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nestjs/default.svg"
+  alt="NestJS"
+    width="50"
+  height="50"
+   style="display:block;"
+/>
+  </a>
   <a href="https://www.mysql.com" target="_blank" style="text-decoration:none;">
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg"
