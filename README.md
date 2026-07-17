@@ -2,9 +2,9 @@
   Hello, I am Jirasak Suktakua
 </h2>
 
-<span align="left" style="font-size: 30px; font-weight: bold;">
+<h3 align="left" style="font-size: 30px; font-weight: bold;">
   Full-Stack Developer
-</span>
+</h3>
 
 ##  Skills & Tools
 <div style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
