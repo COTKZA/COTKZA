@@ -6,23 +6,23 @@
 
 ##  Skills & Tools
 <div style="display:flex; gap:15px; flex-wrap:nowrap; overflow-x:auto; align-items:center;">
-  <a href="https://reactjs.org" target="_blank" style="text-decoration:none;">
+  
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg"
   alt="React"
   width="50"
   height="50"
 />
-  </a>
-  <a href="https://laravel.com/" target="_blank" style="text-decoration:none;">
+ 
+ 
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/laravel/default.svg"
   alt="Laravel"
   width="50"
   height="50"
 />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
+ 
+ 
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg"
   alt="Git"
@@ -30,8 +30,8 @@
   height="50"
    style="text-decoration:none;"
 />
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="text-decoration:none;">
+ 
+  
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodedotjs/default.svg"
   alt="Node.js"
@@ -39,8 +39,8 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" style="text-decoration:none;">
+
+ 
    <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/expressdotjs/default.svg"
   alt="Express.js"
@@ -48,8 +48,8 @@
   height="50"
    style="display:block;"
 />
-  </a>
-   <a href="https://nestjs.com/" target="_blank" style="text-decoration:none;">
+
+ 
    <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nestjs/default.svg"
   alt="NestJS"
@@ -57,8 +57,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://www.mysql.com" target="_blank" style="text-decoration:none;">
+  
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg"
   alt="MySQL"
@@ -66,8 +65,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" style="text-decoration:none;">
+
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg"
   alt="Microsoft SQL Server "
@@ -75,8 +73,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration:none;">
+ 
    <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg"
   alt="Docker"
@@ -84,8 +81,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none;">
+ 
    <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg"
   alt="Tailwind CSS"
@@ -93,8 +89,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://getbootstrap.com/docs/5.0/about/brand/" target="_blank" style="text-decoration:none;">
+  
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bootstrap/default.svg"
   alt="Bootstrap"
@@ -102,8 +97,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" style="text-decoration:none;">
+  
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg"
   alt="HTML5"
@@ -111,8 +105,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;">
+ 
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg"
   alt="TypeScript"
@@ -120,8 +113,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+ 
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg"
   alt="JavaScript"
@@ -129,8 +121,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://vite.dev/" target="_blank" style="text-decoration:none;">
+  
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg"
   alt="Vite"
@@ -138,8 +129,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" style="text-decoration:none;">
+
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vue/default.svg"
   alt="Vue"
@@ -147,8 +137,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://daisyui.com/" target="_blank" style="text-decoration:none;">
+
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/daisyui/default.svg"
   alt="daisyUI"
@@ -156,8 +145,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;">
+ 
    <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg"
   alt="CSS"
@@ -165,8 +153,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" style="text-decoration:none;">
+ 
     <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prisma/default.svg"
   alt="Prisma"
@@ -174,7 +161,7 @@
   height="50"
    style="display:block;"
 />
-  </a>
+ 
 </div>
 
 ---
