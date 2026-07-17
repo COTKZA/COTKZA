@@ -1,8 +1,8 @@
-<h2 align="center" style="font-size: 36px; font-weight: bold;">
+<h2style="font-size: 36px; font-weight: bold;">
    Hello, I am Jirasak Suktakua
 </h2>
 
-<h1 align="center" style="font-size: 30px; font-weight: bold;">
+<h1 style="font-size: 30px; font-weight: bold;">
    Full-Stack Developer
 </h1>
 
