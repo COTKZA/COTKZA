@@ -38,6 +38,13 @@
       style="display:block;"
       />
    <img
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/php/default.svg"
+      alt="PHP"
+      width="50"
+      height="50"
+      style="display:block;"
+      />
+   <img
       src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nestjs/default.svg"
       alt="NestJS"
       width="50"
