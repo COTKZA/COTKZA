@@ -1,4 +1,4 @@
-<h2style="font-size: 36px; font-weight: bold;">
+<h2 style="font-size: 36px; font-weight: bold;">
    Hello, I am Jirasak Suktakua
 </h2>
 
